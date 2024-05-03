@@ -250,3 +250,4 @@ C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ProjetoSemana3\MiniMundo\obj\Debug
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ProjetoSemana3\MiniMundo\obj\Debug\net8.0\MiniMundo.pdb
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ProjetoSemana3\MiniMundo\obj\Debug\net8.0\MiniMundo.genruntimeconfig.cache
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ProjetoSemana3\MiniMundo\obj\Debug\net8.0\ref\MiniMundo.dll
+C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ProjetoSemana3\MiniMundo\obj\Debug\net8.0\MiniMundo.sourcelink.json

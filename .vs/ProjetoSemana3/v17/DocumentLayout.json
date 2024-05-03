@@ -3,6 +3,122 @@
   "WorkspaceRootPath": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\fornecedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\fornecedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\fornecedors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\fornecedors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\fornecedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\fornecedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\fornecedors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\fornecedors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\funcionarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\funcionarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\funcionarios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\funcionarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\funcionarios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\funcionarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\nivelacessos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\nivelacessos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\nivelacessos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\nivelacessos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\nivelacessos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\nivelacessos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\nivelacessos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\nivelacessos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\nivelacessos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\nivelacessos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\vendas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\vendas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,6 +135,383 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:42.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:35.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:30.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:24.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Fornecedors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Fornecedors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Fornecedors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Edit.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Fornecedors\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Fornecedors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Fornecedors\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:01.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Fornecedors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Fornecedors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:45:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Fornecedors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Fornecedors\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Fornecedors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Funcionarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Funcionarios\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:56.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Funcionarios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Funcionarios\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Funcionarios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Funcionarios\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:54.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Funcionarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Funcionarios\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Funcionarios\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:52.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\NivelAcessos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\NivelAcessos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\NivelAcessos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Edit.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\NivelAcessos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\NivelAcessos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\NivelAcessos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:25.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\NivelAcessos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\NivelAcessos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:18.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\NivelAcessos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\NivelAcessos\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\NivelAcessos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Vendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Index.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Vendas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Vendas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Edit.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Vendas\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:10.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Vendas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Vendas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:09.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Vendas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Delete.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Vendas\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Create.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Vendas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Vendas\\Create.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Vendas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T13:44:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Produtos\\Delete.cshtml",
               "RelativeDocumentMoniker": "MiniMundo\\Views\\Produtos\\Delete.cshtml",
