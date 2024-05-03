@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MiniMundo.Models.Venda>
+
+@{
+    ViewData["Title"] = "Vendas";
+}
+
+<h1>Vendas</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-primary">Cadastrar Venda</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClienteID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FuncionarioID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProdutoID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalVenda)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClienteID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FuncionarioID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProdutoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalVenda)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.VendaID" class="btn btn-outline-primary"> <i class="bi bi-pencil-square"></i> Editar</a> 
+                        <a asp-action="Details" asp-route-id="@item.VendaID" class="btn btn-outline-secondary"><i class="bi bi-card-list"></i> Detalhes</a> 
+                        <a asp-action="Delete" asp-route-id="@item.VendaID" class="btn btn-outline-danger"><i class="bi bi-trash"></i> Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
