@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\projetosemana3\\minimundo\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3DD54D8-87FA-48A6-B29E-E2C2A7337ADC}|MiniMundo\\MiniMundo.csproj|solutionrelative:minimundo\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Details.cshtml",
-              "RelativeDocumentMoniker": "MiniMundo\\Views\\Categorias\\Details.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Categorias\\Details.cshtml",
-              "RelativeToolTip": "MiniMundo\\Views\\Categorias\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ProjetoSemana3\\MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "MiniMundo\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T13:51:27.316Z",
+              "WhenOpened": "2024-05-03T15:46:42.797Z",
               "EditorCaption": ""
             }
           ]
